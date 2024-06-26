@@ -1,0 +1,91 @@
+{
+    "jobTitle": [ "Aspiring Developer" ],
+    "About": [
+       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat nobis tempora vel. Voluptates assumenda aliquid eligendi aspernatur ex repellendus fuga beatae voluptas pariatur magnam quia quae, minima saepe officiis labore repellat vitae ad dolorum, deleniti hic mollitia non? Eum laborum veniam voluptas mollitia at quibusdam ad nam dolores accusantium minus illo laudantium, magnam sapiente dolore dolor esse. Assumenda maxime inventore eaque pariatur quibusdam unde nobis, iste nulla quisquam blanditiis temporibus!"
+        
+    ],
+    
+    "education": [ 
+        {
+            "Institution": "Oval North High School",
+            "Qualification": "Natural Senior Certificate",
+            "Year": 2020,
+            "completed": true,
+            "certificate": "url:http://"
+        },
+
+        {
+            "Institution": "Life Choices",
+            "Qualification": "NQF Level 5",
+            "Year": 2024,
+            "completed": false
+        }
+    ],
+    
+    "experience": [
+        {
+            "company": "Life Choices",
+            "title": "Aspiring Web Developer",
+            "year": 2024,
+            "status": "in progress",
+            "durationInMonths": 12
+        }
+    ]
+    ,
+    "skills": [
+        {
+            "name": "HTML",
+            "pro-effeciency": "beginner",
+            "projectsCompleted": 6,
+            "projects" : [ "Bootstrap Portfolio", "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
+            "summary": "Proficient in structuring web pages with HTML, including forms, tables, and multimedia elements. Experienced in creating responsive layouts and integrating with CSS and JavaScript for dynamic content."
+        },
+        {
+            "name": "CSS",
+            "pro-effeciency": "below beginner",
+            "projectsCompleted": 5,
+            "projects" : [ "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
+            "summary": "Basic understanding of CSS for styling web pages, focusing on layout, colors, fonts, and responsive design. Has applied CSS to enhance user interfaces and improve visual appeal."
+        },
+        {
+            "name": "Javascript",
+            "pro-effeciency": "intermediate",
+            "projectsCompleted": 3,
+            "projects" : [ "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
+            "summary": "Skilled in JavaScript for creating interactive web experiences. Proficient in DOM manipulation, event handling, and asynchronous programming. Implemented functionality like calculators and data processing."
+        },
+        {
+            "name": "Bootstrap",
+            "pro-effeciency": "beginner",
+            "projectsCompleted": 1,
+            "projects" : [ "Bootstrap Portfolio"],
+            "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
+        }
+    ]
+    ,
+
+    "testimonials": [
+        {
+            "name" : "Chelsea Julie",
+            "relation" : "Twin Sister",
+            "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "name" : "Daniel Umetor",
+            "relation" : "Best Friend",
+            "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+        }
+    ],
+
+    "projects": [
+        {
+            "name": "",
+            "description": "",
+            "image": "",
+            "githu": ""
+        }
+    ]
+}
