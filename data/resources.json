@@ -1,5 +1,25 @@
 {
-    "jobTitle": [ "Aspiring Developer" ],
+    "jobTitle": [ 
+
+        {
+            "title" : "Aspiring Developer",
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
+        } ,
+
+        {
+            "title" : "Certified Baddie",
+            "description" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
+        },
+        
+        {
+            "title" : "Web Developer",
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
+        },
+        {
+            "title" : "Dick Tator",
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
+        }
+    ],
     "About": [
        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat nobis tempora vel. Voluptates assumenda aliquid eligendi aspernatur ex repellendus fuga beatae voluptas pariatur magnam quia quae, minima saepe officiis labore repellat vitae ad dolorum, deleniti hic mollitia non? Eum laborum veniam voluptas mollitia at quibusdam ad nam dolores accusantium minus illo laudantium, magnam sapiente dolore dolor esse. Assumenda maxime inventore eaque pariatur quibusdam unde nobis, iste nulla quisquam blanditiis temporibus!"
         
