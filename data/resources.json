@@ -103,39 +103,39 @@
             "name" : "Chelsea Julie",
             "relation" : "Friend",
             "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+            "image" : "https://chelsea-julie.github.io/all-images/images/Humans/landing.jpg"
         },
         {
             "name" : "Daniel Umetor",
             "relation" : "Friend",
             "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+            "image" : "https://chelsea-julie.github.io/all-images/images/Humans/Erin.jpg"
 
         },
         {
             "name" : "Erin Caitlin ",
             "relation" : "Friend",
             "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+            "image" : "https://chelsea-julie.github.io/all-images/images/Humans/Keira.jpg"
         },
         {
             "name" : "Keira Julie",
             "relation" : "Friend",
             "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+            "image" : "https://chelsea-julie.github.io/all-images/images/Humans/Raynard.jpg"
 
         },
         {
             "name" : "Yakupha",
             "relation" : "Friend",
             "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+            "image" : "https://chelsea-julie.github.io/all-images/images/Humans/Daniel.jpg"
         },
         {
             "name" : "Daniel Umetor",
             "relation" : "Best Friend",
             "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
-            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+            "image" : "https://chelsea-julie.github.io/all-images/images/Humans/Daniel.jpg"
 
         }
     ],
@@ -143,37 +143,37 @@
     "projects": [
         {
             "name": "Bootstrap Portfolio",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
-            "image": "",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla",
+            "image": "https://github.com/awhendr261101/all-images/images/vue-eomp/",
             "github": "https://github.com/awhendr261101/AwodwaPortfolioEOMP.git"
         },
         {
             "name": "Calculator",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla",
             "image": "",
             "github": "https://github.com/awhendr261101/calculator.git"
         },
         {
             "name": "geekGalaxy",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla",
             "image": "",
             "github": "https://github.com/awhendr261101/geekGalaxy.git"
         },
         {
             "name": "Keyboard",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla",
             "image": "",
             "github": "https://github.com/awhendr261101/keyboard.git"
         },
         {
             "name": "BMI Calculator",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla",
             "image": "",
             "github": "https://github.com/awhendr261101/keyboard.git"
         },
         {
             "name": "Swegga",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla",
             "image": "",
             "github": "https://github.com/awhendr261101/keyboard.git"
         }
