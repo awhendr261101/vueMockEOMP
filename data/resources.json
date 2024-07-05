@@ -4,22 +4,16 @@
         {
             "title" : "Aspiring Developer",
             "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
-        } ,
-
-        {
-            "title" : "Certified Baddie",
-            "description" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
         },
-        
         {
-            "title" : "Web Developer",
+            "title" : "Content Creator",
             "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
         },
         {
-            "title" : "Dick Tator",
-            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
+            "title" : "Software Developer",
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat"
         }
-    ],
+        ],
     "About": [
        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat nobis tempora vel. Voluptates assumenda aliquid eligendi aspernatur ex repellendus fuga beatae voluptas pariatur magnam quia quae, minima saepe officiis labore repellat vitae ad dolorum, deleniti hic mollitia non? Eum laborum veniam voluptas mollitia at quibusdam ad nam dolores accusantium minus illo laudantium, magnam sapiente dolore dolor esse. Assumenda maxime inventore eaque pariatur quibusdam unde nobis, iste nulla quisquam blanditiis temporibus! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident quod quibusdam in nam exercitationem ex reprehenderit quo delectus nostrum mollitia eius repellendus, incidunt est expedita atque temporibus alias ut laudantium consequatur molestias ullam iusto nemo minima? Officiis, magnam atque delectus mollitia tempore, at quam culpa nam ad ullam modi, eum omnis quaerat enim fuga quasi illo ea doloribus excepturi! Nemo, ratione! Modi explicabo ut placeat dicta laudantium, nisi suscipit aliquam amet alias delectus eligendi repudiandae nemo ipsam quo tempore autem deleniti neque ipsa, dolores blanditiis sint nihil tenetur? Consequuntur, debitis. Aut consequatur laudantium itaque dolor necessitatibus temporibus officia ducimus vel modi sequi quas consectetur totam culpa quasi magnam recusandae, quis impedit explicabo ea tempore reiciendis! Illo suscipit hic harum autem ipsam labore assumenda expedita asperiores laudantium? Hic consequuntur accusamus ipsum ad provident officia vitae consequatur eveniet earum, laborum maiores distinctio perspiciatis voluptate eius natus temporibus sequi expedita nam odit? Corrupti."
         
@@ -47,6 +41,13 @@
             "title": "Aspiring Web Developer",
             "year": 2024,
             "status": "in progress",
+            "durationInMonths": 12
+        },
+        {
+            "company": "Sakhingomso Internat Cafe",
+            "title": "Customer Service",
+            "year": 2020,
+            "status": "Resigned",
             "durationInMonths": 12
         }
     ]
@@ -79,6 +80,20 @@
             "projectsCompleted": 1,
             "projects" : [ "Bootstrap Portfolio"],
             "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
+        },
+        {
+            "name": "Java",
+            "pro-effeciency": "intermediate",
+            "projectsCompleted": 4,
+            "projects" : [ "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
+            "summary": "Skilled in JavaScript for creating interactive web experiences. Proficient in DOM manipulation, event handling, and asynchronous programming. Implemented functionality like calculators and data processing."
+        },
+        {
+            "name": "Github",
+            "pro-effeciency": "beginner",
+            "projectsCompleted": 1,
+            "projects" : [ "Bootstrap Portfolio"],
+            "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
         }
     ]
     ,
@@ -86,7 +101,33 @@
     "testimonials": [
         {
             "name" : "Chelsea Julie",
-            "relation" : "Twin Sister",
+            "relation" : "Friend",
+            "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "name" : "Daniel Umetor",
+            "relation" : "Friend",
+            "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+        },
+        {
+            "name" : "Erin Caitlin ",
+            "relation" : "Friend",
+            "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "name" : "Keira Julie",
+            "relation" : "Friend",
+            "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+        },
+        {
+            "name" : "Yakupha",
+            "relation" : "Friend",
             "testimonial" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, quidem. Lorem ipsum dolor sit amet consectetur adipisicing elit",
             "image" : "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
         },
