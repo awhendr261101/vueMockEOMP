@@ -142,7 +142,7 @@
 
     "projects": [
         {
-            "name": "Bootstrap",
+            "name": "Bootstrap Portfolio",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
             "image": "",
             "github": "https://github.com/awhendr261101/AwodwaPortfolioEOMP.git"
@@ -161,6 +161,18 @@
         },
         {
             "name": "Keyboard",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
+            "image": "",
+            "github": "https://github.com/awhendr261101/keyboard.git"
+        },
+        {
+            "name": "BMI Calculator",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
+            "image": "",
+            "github": "https://github.com/awhendr261101/keyboard.git"
+        },
+        {
+            "name": "Swegga",
             "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur officiis culpa nobis vero optio iure ipsam officia autem dolorum! Fugiat, voluptatem laboriosam ipsam nam facere nulla quo non praesentium. Ipsum ipsa odit harum voluptatum quis reiciendis quidem laudantium commodi pariatur obcaecati provident, id dolorem explicabo incidunt dolore odio natus voluptas ex aliquam? Inventore, fuga ullam praesentium possimus numquam quos. Sint quod ratione suscipit eos ducimus inventore unde sed voluptatibus velit!",
             "image": "",
             "github": "https://github.com/awhendr261101/keyboard.git"
