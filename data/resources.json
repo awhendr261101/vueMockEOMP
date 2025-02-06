@@ -15,23 +15,23 @@
         }
         ],
     "About": [
-       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat nobis tempora vel. Voluptates assumenda aliquid eligendi aspernatur ex repellendus fuga beatae voluptas pariatur magnam quia quae, minima saepe officiis labore repellat vitae ad dolorum, deleniti hic mollitia non? Eum laborum veniam voluptas mollitia at quibusdam ad nam dolores accusantium minus illo laudantium, magnam sapiente dolore dolor esse. Assumenda maxime inventore eaque pariatur quibusdam unde nobis, iste nulla quisquam blanditiis temporibus! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Provident quod quibusdam in nam exercitationem ex reprehenderit quo delectus nostrum mollitia eius repellendus, incidunt est expedita atque temporibus alias ut laudantium consequatur molestias ullam iusto nemo minima? Officiis, magnam atque delectus mollitia tempore, at quam culpa nam ad ullam modi, eum omnis quaerat enim fuga quasi illo ea doloribus excepturi! Nemo, ratione! Modi explicabo ut placeat dicta laudantium, nisi suscipit aliquam amet alias delectus eligendi repudiandae nemo ipsam quo tempore autem deleniti neque ipsa, dolores blanditiis sint nihil tenetur? Consequuntur, debitis. Aut consequatur laudantium itaque dolor necessitatibus temporibus officia ducimus vel modi sequi quas consectetur totam culpa quasi magnam recusandae, quis impedit explicabo ea tempore reiciendis! Illo suscipit hic harum autem ipsam labore assumenda expedita asperiores laudantium? Hic consequuntur accusamus ipsum ad provident officia vitae consequatur eveniet earum, laborum maiores distinctio perspiciatis voluptate eius natus temporibus sequi expedita nam odit? Corrupti."
-        
+        "I was born in the Eastern Cape and grew up in Cape Town, where I later graduated from Oval North Technical High School. It was during my time there, studying Computer Applications Technology, that I discovered my passion for coding. After high school, I knew I wanted to pursue programming further, and I was accepted into WeThinkCode, one of Africa's leading tech institutions, where I studied software engineering. After completing the two-year program, I sought to deepen my expertise and joined Life Choices, a renowned youth empowerment NGO in South Africa. There, I focused on web development and completed an intensive 6-month bootcamp that transformed my skills and career path.Today, I am confident in the knowledge and experience I have gained from both institutions. With my diverse skill set and continuous drive to learn, I am ready to excel in any role within the tech industry."
     ],
     
     "education": [ 
+
         {
-            "Institution": "Oval North High School",
-            "Qualification": "Natural Senior Certificate",
-            "Year": 2020,
-            "completed": true
+            "Institution": "Life Choices Academy",
+            "Qualification": "Full-Stack Web Development",
+            "Year": 2024,
+            "completed": false
         },
 
         {
-            "Institution": "Life Choices",
-            "Qualification": "NQF Level 5",
-            "Year": 2024,
-            "completed": false
+            "Institution": "WeThinkCode",
+            "Qualification": "Software Engineer",
+            "Year": 2018,
+            "completed": true
         }
     ],
     
